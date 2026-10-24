@@ -4,7 +4,7 @@ A simple website for **Al Haram Food Point**, our family-run dhaba in Kudwala, Y
 
 We do not take online orders. The website is only for showing information about the dhaba.
 
-**Live Demo:** _add your deployed link here_
+**Live Demo:** _https://family-hotel.vercel.app/_
 
 ## Features
 
